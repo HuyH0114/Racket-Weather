@@ -25,6 +25,8 @@ Identify the OPL concepts demonstrated in your project. Be brief. A simple list 
 * **Data abstraction** is used to provide access to the elements of the RSS feed.
 * The objects in the OpenGL world are represented with **recursive data structures.**
 * **Symbolic language processing techniques** are used in the parser.
+* 
+ **Basic Recursion** was used to grab the min and max of values from the JSON file
 
 ##External Technology and Libraries
 Briefly describe the existing technology you utilized, and how you used it. Provide a link to that technology(ies).
