@@ -11,7 +11,7 @@ Our general idea for the project is to mimic a 10-day weather forcast where it d
 ##Screenshot
 This was our inital concept and visualization of what we wanted to mimic
 <p align="center">
-	<img src="https://github.com/oplS16projects/Racket-Weather/blob/master/Diagram.png">
+	<img src="https://github.com/oplS16projects/Racket-Weather/blob/master/Example.png">
 <p>
 
 This is what we actually have outputted 
