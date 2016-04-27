@@ -16,7 +16,7 @@ This was our inital concept and visualization of what we wanted to mimic
 
 This is what we actually have outputted 
 <p align="center">
-	<img src="https://github.com/oplS16projects/Racket-Weather/Racket_Weather_Output_Diagram.PNG">
+	<img src="https://github.com/HuyH0114/Racket-Weather/blob/master/Racket_Weather_Output_Diagram.PNG">
 <p>
 
 
